@@ -1,14 +1,14 @@
-# MVVM
+# Android MVVM
 
-![AndroidMVVM](https://user-images.githubusercontent.com/53843178/63658483-debedf80-c7e5-11e9-9557-10bed7df87af.gif)
+<img width="400px" height="700px" src="https://user-images.githubusercontent.com/53843178/63658483-debedf80-c7e5-11e9-9557-10bed7df87af.gif" />
 <br/>
 <br/>
 
 
 
-## MVVM Pattern
+## MVVM Concept
 
-<img width="667" alt="MVVM" src="https://user-images.githubusercontent.com/52689243/63492369-4b8b5e80-c4f4-11e9-9b30-93323405ee04.png">
+<img width="750" alt="MVVM" src="https://user-images.githubusercontent.com/52689243/63658924-5e9a7900-c7e9-11e9-9ba6-08deaed6a36f.png">
 
 1. View 에 입력이 들어오면 Command 패턴으로 ViewModel 에 명령을 한다.
 2. ViewModel 은 필요한 데이터를 Model 에 요청한다.
@@ -62,7 +62,7 @@
 
 
 
-## Setting
+## Project Setting
 
 #### BaseApplication.kt
 
