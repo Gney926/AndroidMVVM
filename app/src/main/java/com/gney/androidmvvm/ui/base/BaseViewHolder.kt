@@ -1,0 +1,11 @@
+package com.gney.androidmvvm.ui.base
+
+import android.view.View
+import androidx.databinding.DataBindingUtil
+import androidx.databinding.ViewDataBinding
+import androidx.recyclerview.widget.RecyclerView
+
+
+abstract class BaseViewHolder<out T : ViewDataBinding>(view: View) : RecyclerView.ViewHolder(view) {
+    val viewDataBinding: T = DataBindingUtil.bind(view)!!
+}
