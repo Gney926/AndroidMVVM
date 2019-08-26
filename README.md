@@ -52,7 +52,7 @@
 
 ## Data Binding
 
-<img width="649" alt="DataBinding" src="https://user-images.githubusercontent.com/52689243/63493597-edac4600-c4f6-11e9-85ec-b39c36d93ecb.png">
+<img width="749" alt="DataBinding" src="https://user-images.githubusercontent.com/53843178/63659335-dbc6ed80-c7eb-11e9-8808-31c8759a7eaf.png">
 
 - MVVM 에서 가장 중요한 핵심으로, View 가 오로지 수동적인 포지션을 취할 수 있고 ViewModel 이 View 의 존재를 알지 못하게 하여 의존성에서 벗어날 수 있게 해준다.
 - Data Binding 은 View 와 ViewModel 간의 데이터와 명령을 연결해주는 매개체가 되어 서로의 존재를 명확히 알지 않더라도 다양한 인터랙션을 할 수 있도록 도와준다.
