@@ -10,7 +10,7 @@
 
 <img width="750" alt="MVVM" src="https://user-images.githubusercontent.com/52689243/63658924-5e9a7900-c7e9-11e9-9ba6-08deaed6a36f.png">
 
-1. View 에 입력이 들어오면 Command 패턴으로 ViewModel 에 명령을 한다.
+1. View 에 입력이 들어오면 ViewModel 에 명령을 한다.
 2. ViewModel 은 필요한 데이터를 Model 에 요청한다.
 3. Model 은 ViewModel 에게 요청받은 데이터를 응답한다.
 4. ViewModel 은 응답받은 데이터를 가공해서 저장한다.
